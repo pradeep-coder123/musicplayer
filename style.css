@@ -136,7 +136,7 @@ nav ul li{
    }
    @media only screen and (max-width: 495px) {
     .songItem{
-        height: 93px;
+        height: 112px;
         display: flex;
         flex-direction: column;
         justify-content: center;
